@@ -44,7 +44,10 @@ cls -h
 	* 1.0.3 unused version
 	* 1.0.4 unused version
 	* 1.0.5 fix bugs
-	* 1.0.6 update readme
+	* 1.0.6 unused version
+	* 1.0.7 update test case
+	* 1.0.8 update readme
+	* 1.0.9 update readme
 
 ## :yum: How to contribute
 
