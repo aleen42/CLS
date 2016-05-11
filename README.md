@@ -3,6 +3,7 @@
 a command tool for Code Line Statistic
 
 ![](./cls1.png)
+
 ![](./cls2.png)
 
 ## Installation
@@ -31,6 +32,7 @@ cls -h
 * ==================== **1.0.0 Initial release** ====================
 	* 1.0.0 Initial release
 	* 1.0.1 Update readme
+	* 1.0.2 Update readme
 
 ## :yum: How to contribute
 
