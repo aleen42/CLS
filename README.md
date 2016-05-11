@@ -1,4 +1,4 @@
-## auto-content
+## cls
 
 a command tool for Code Line Statistic
 
@@ -40,7 +40,7 @@ cls -h
 	* 1.0.3 unused version
 	* 1.0.4 unused version
 	* 1.0.5 fix bugs
-	
+	* 1.0.6 update readme
 
 ## :yum: How to contribute
 
