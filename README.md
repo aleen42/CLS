@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/cls-cli.svg)](https://www.npmjs.com/package/cls-cli) [![Build Status](https://travis-ci.org/aleen42/CLS.svg?branch=master)](https://travis-ci.org/aleen42/CLS) [![npm](https://img.shields.io/npm/dm/cls-cli.svg)](https://github.com/aleen42/CLS) [![devDependency Status](https://david-dm.org/aleen42/CLS/dev-status.svg)](https://david-dm.org/aleen42/CLS#info=devDependencies)
 
-a command tool for Code Line Statistic
+a command tool for Code Line(bytes) Statistic
 
 ![](./cls1.png)
 
