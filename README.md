@@ -48,6 +48,8 @@ cls -h
 	* 1.0.7 update test case
 	* 1.0.8 update readme
 	* 1.0.9 update readme
+	* 1.1.0 change lines to bytes
+	* 1.1.1 update readme
 
 ## :yum: How to contribute
 
