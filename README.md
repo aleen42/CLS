@@ -50,6 +50,7 @@ cls -h
 	* 1.0.9 update readme
 	* 1.1.0 change lines to bytes
 	* 1.1.1 update readme
+	* 1.1.2 fix bugs
 
 ## :yum: How to contribute
 
