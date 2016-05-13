@@ -2,7 +2,7 @@
 
 [![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#) [![GitHub issues](https://img.shields.io/github/issues/aleen42/CLS.svg)](https://github.com/aleen42/CLS/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/CLS/master/LICENSE) [![Gitter](https://badges.gitter.im/aleen42/CLS.svg)](https://gitter.im/aleen42/CLS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
-[![npm](https://img.shields.io/npm/v/cls-cli.svg)](https://www.npmjs.com/package/cls-cli) [![Build Status](https://travis-ci.org/aleen42/CLS.svg?branch=master)](https://travis-ci.org/aleen42/CLS) [![npm](https://img.shields.io/npm/dm/cls-cli.svg)](https://github.com/aleen42/CLS) [![devDependency Status](https://david-dm.org/aleen42/CLS/dev-status.svg)](https://david-dm.org/aleen42/CLS#info=devDependencies)
+[![npm](https://img.shields.io/npm/v/cls-cli.svg)](https://www.npmjs.com/package/cls-cli) [![Build Status](https://travis-ci.org/aleen42/CLS.svg?branch=master)](https://travis-ci.org/aleen42/CLS) [![devDependency Status](https://david-dm.org/aleen42/CLS/dev-status.svg)](https://david-dm.org/aleen42/CLS#info=devDependencies) [![npm](https://img.shields.io/npm/dt/cls-cli.svg)](https://www.npmjs.com/package/cls-cli)
 
 a command tool for Code Line(bytes) Statistic
 
@@ -59,6 +59,7 @@ cls -h
 	* 1.1.3 test version
 * ==================== **2.0.0 Release statistic for lines** ====================
 	* 2.0.1 update readme
+	* 2.0.2 update readme
 
 ## :yum: How to contribute
 
