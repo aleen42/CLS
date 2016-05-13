@@ -60,6 +60,7 @@ cls -h
 * ==================== **2.0.0 Release statistic for lines** ====================
 	* 2.0.1 update readme
 	* 2.0.2 update readme
+	* 2.0.3 update readme
 
 ## :yum: How to contribute
 
