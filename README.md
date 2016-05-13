@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/cls-cli.svg)](https://www.npmjs.com/package/cls-cli) [![Build Status](https://travis-ci.org/aleen42/CLS.svg?branch=master)](https://travis-ci.org/aleen42/CLS) [![devDependency Status](https://david-dm.org/aleen42/CLS/dev-status.svg)](https://david-dm.org/aleen42/CLS#info=devDependencies) [![npm](https://img.shields.io/npm/dt/cls-cli.svg)](https://www.npmjs.com/package/cls-cli)
 
-a command tool for Code Line(bytes) Statistic
+a command tool for Code Line(bytes) Statistic in Linux and Mac OS.
 
 ![](./cls1.png)
 
@@ -61,6 +61,17 @@ cls -h
 	* 2.0.1 update readme
 	* 2.0.2 update readme
 	* 2.0.3 update readme
+	* 2.0.4 unused version
+	* 2.0.5 unused version
+	* 2.0.6 unused version
+	* 2.0.7 unused version
+	* 2.0.8 unused version
+	* 2.0.9 unused version
+	* 2.1.0 unused version
+	* 2.1.1 unused version
+	* 2.1.2 unused version
+	* 2.1.3 unused version
+	* 2.1.4 fix bugs
 
 ## :yum: How to contribute
 
