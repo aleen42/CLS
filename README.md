@@ -10,6 +10,8 @@ a command tool for Code Line(bytes) Statistic
 
 ![](./cls2.png)
 
+![](./cls3.png)
+
 ## Installation
 
 	sudo npm install -g cls-cli
@@ -31,6 +33,8 @@ cls -u aleen42 -t xxx
 cls -h
 ```
 
+*Notice that: if you want to have a statistic for code lines, the process will take a long time, because it should connect to remote directory and the speed should depend on your network status and the size of the repository. By the way, there is a bug when your try to have a statistic for a huge repository, which will cause 504 Gate Way timeout error of svn.*
+
 ## Tests
 
     npm test
@@ -51,6 +55,10 @@ cls -h
 	* 1.1.0 change lines to bytes
 	* 1.1.1 update readme
 	* 1.1.2 fix bugs
+	* 1.1.3 unused version
+	* 1.1.3 test version
+* ==================== **2.0.0 Release statistic for lines** ====================
+	* 2.0.1 update readme
 
 ## :yum: How to contribute
 
