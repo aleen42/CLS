@@ -72,6 +72,7 @@ cls -h
 	* 2.1.2 unused version
 	* 2.1.3 unused version
 	* 2.1.4 fix bugs
+	* 2.1.5 fix bugs
 
 ## :yum: How to contribute
 
