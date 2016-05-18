@@ -1,6 +1,6 @@
 {
   "name": "cls-cli",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "code line statistic",
   "main": "index.js",
   "scripts": {

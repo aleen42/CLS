@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/cls-cli.svg)](https://www.npmjs.com/package/cls-cli) [![Build Status](https://travis-ci.org/aleen42/CLS.svg?branch=master)](https://travis-ci.org/aleen42/CLS) [![devDependency Status](https://david-dm.org/aleen42/CLS/dev-status.svg)](https://david-dm.org/aleen42/CLS#info=devDependencies) [![npm](https://img.shields.io/npm/dt/cls-cli.svg)](https://www.npmjs.com/package/cls-cli)
 
-a command tool for Code Line(bytes) Statistic in Linux and Mac OS.
+A command tool for Code Statistic of GitHub repositories in **Linux** and **Mac OS**. The main advantage of this tool is that it can access remote repositories without fetching them to local space.
 
 ![](./cls1.png)
 
@@ -73,6 +73,7 @@ cls -h
 	* 2.1.3 unused version
 	* 2.1.4 fix bugs
 	* 2.1.5 fix bugs
+	* 2.1.6 update readme
 
 ## :yum: How to contribute
 

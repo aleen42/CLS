@@ -231,7 +231,7 @@ svn_error_t* crawl(const char* url, svn_revnum_t revision, svn_boolean_t print_d
 	callbacks->auth_baton = auth_baton;
 
 	svn_ra_session_t* session;
-	SVN_ERR(svn_ra_open3(&session, url, NULL, callbacks, NULL, config, pool));
+	SVN_ERR(svn_ra_open4(&session, NULL, url, NULL, callbacks, NULL, config, pool));
 	
 	const svn_ra_reporter3_t* status_reporter;
 	void* reporter_baton;
