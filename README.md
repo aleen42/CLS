@@ -48,15 +48,15 @@ A command tool for Code Statistic of GitHub repositories in **Linux** and **Mac 
 
 ![](./cls3.png)
 
-## Installation
+### Installation
 
 	sudo npm install -g cls-cli
 
-## Uninstallation
+### Uninstallation
 
 	sudo npm rm -g cls-cli
 
-## Usage
+### Usage
 
 generate your own github api token following the [site](https://github.com/blog/1509-personal-api-tokens).
 
@@ -71,11 +71,11 @@ cls -h
 
 *Notice that: if you want to have a statistic for code lines, the process will take a long time, because it should connect to remote directory and the speed should depend on your network status and the size of the repository. By the way, there is a bug when your try to have a statistic for a huge repository, which will cause 504 Gate Way timeout error of svn.*
 
-## Tests
+### Tests
 
     npm test
 
-## Release History
+### Release History
 
 * ==================== **1.0.0 Initial release** ====================
 	* 1.0.0 initial release
@@ -114,10 +114,10 @@ cls -h
 	* 2.1.8 update readme
 	* 2.1.9 update readme
 
-## :yum: How to contribute
+### :yum: How to contribute
 
 Have an idea? Found a bug? See [how to contribute](https://aleen42.gitbooks.io/personalwiki/content/contribution.html).
 
-## :scroll: License
+### :scroll: License
 
 [MIT](https://aleen42.gitbooks.io/personalwiki/content/MIT.html) © aleen42
