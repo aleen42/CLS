@@ -8,45 +8,45 @@ A command tool for Code Statistic of GitHub repositories in **Linux** and **Mac 
 
 ### Code Statistic from GitHub projects (bytes)
 
-![](https://img.shields.io/badge/%20%20Code-%20%20%20%204,567,447-00666b.svg)
+![CLS](https://img.shields.io/badge/%20%20Code-%20%20%20%204,567,447-00666b.svg)
 
-![](https://img.shields.io/badge/%20%20HTML-%20%20%20%201,589,401-00666b.svg)
-![](https://img.shields.io/badge/%20%20Java-%20%20%20%20976,464-01939a.svg)
-![](https://img.shields.io/badge/%20%20C%23-%20%20%20%20655,067-076c70.svg)
-![](https://img.shields.io/badge/%20%20C-%20%20%20%20449,812-003d40.svg)
-![](https://img.shields.io/badge/%20%20Visual%20Basic-%20%20%20%20279,412-0a5f73.svg)
-![](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20210,906-017277.svg)
-![](https://img.shields.io/badge/%20%20PostScript-%20%20%20%20145,347-05575b.svg)
-![](https://img.shields.io/badge/%20%20CSS-%20%20%20%20113,363-1d8489.svg)
-![](https://img.shields.io/badge/%20%20PHP-%20%20%20%2082,556-003d40.svg)
-![](https://img.shields.io/badge/%20%20C%2B%2B-%20%20%20%2056,122-02888e.svg)
-![](https://img.shields.io/badge/%20%20Shell-%20%20%20%208,351-00595e.svg)
-![](https://img.shields.io/badge/%20%20ApacheConf-%20%20%20%20412-00666b.svg)
-![](https://img.shields.io/badge/%20%20Makefile-%20%20%20%20234-076c70.svg)
+![CLS](https://img.shields.io/badge/%20%20HTML-%20%20%20%201,589,401-00666b.svg)
+![CLS](https://img.shields.io/badge/%20%20Java-%20%20%20%20976,464-01939a.svg)
+![CLS](https://img.shields.io/badge/%20%20C%23-%20%20%20%20655,067-076c70.svg)
+![CLS](https://img.shields.io/badge/%20%20C-%20%20%20%20449,812-003d40.svg)
+![CLS](https://img.shields.io/badge/%20%20Visual%20Basic-%20%20%20%20279,412-0a5f73.svg)
+![CLS](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20210,906-017277.svg)
+![CLS](https://img.shields.io/badge/%20%20PostScript-%20%20%20%20145,347-05575b.svg)
+![CLS](https://img.shields.io/badge/%20%20CSS-%20%20%20%20113,363-1d8489.svg)
+![CLS](https://img.shields.io/badge/%20%20PHP-%20%20%20%2082,556-003d40.svg)
+![CLS](https://img.shields.io/badge/%20%20C%2B%2B-%20%20%20%2056,122-02888e.svg)
+![CLS](https://img.shields.io/badge/%20%20Shell-%20%20%20%208,351-00595e.svg)
+![CLS](https://img.shields.io/badge/%20%20ApacheConf-%20%20%20%20412-00666b.svg)
+![CLS](https://img.shields.io/badge/%20%20Makefile-%20%20%20%20234-076c70.svg)
 
 ### Code Statistic from GitHub projects (lines)
 
-![](https://img.shields.io/badge/%20%20Code-%20%20%20%20136,068-a5240d.svg)
+![CLS](https://img.shields.io/badge/%20%20Code-%20%20%20%20136,068-a5240d.svg)
 
-![](https://img.shields.io/badge/%20%20HTML-%20%20%20%2039,393-821400.svg)
-![](https://img.shields.io/badge/%20%20Java-%20%20%20%2025,366-970808.svg)
-![](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%2017,454-7e0603.svg)
-![](https://img.shields.io/badge/%20%20C%23-%20%20%20%2016,960-821400.svg)
-![](https://img.shields.io/badge/%20%20C-%20%20%20%2011,065-821400.svg)
-![](https://img.shields.io/badge/%20%20PostScript-%20%20%20%209,601-a5100d.svg)
-![](https://img.shields.io/badge/%20%20Visual%20Basic-%20%20%20%207,361-a5100d.svg)
-![](https://img.shields.io/badge/%20%20CSS-%20%20%20%204,136-a10000.svg)
-![](https://img.shields.io/badge/%20%20PHP-%20%20%20%202,349-821400.svg)
-![](https://img.shields.io/badge/%20%20C%2B%2B-%20%20%20%202,133-ba1c0b.svg)
-![](https://img.shields.io/badge/%20%20Shell-%20%20%20%20222-a5240d.svg)
-![](https://img.shields.io/badge/%20%20Makefile-%20%20%20%2015-ba1c0b.svg)
-![](https://img.shields.io/badge/%20%20ApacheConf-%20%20%20%2013-a5100d.svg)
+![CLS](https://img.shields.io/badge/%20%20HTML-%20%20%20%2039,393-821400.svg)
+![CLS](https://img.shields.io/badge/%20%20Java-%20%20%20%2025,366-970808.svg)
+![CLS](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%2017,454-7e0603.svg)
+![CLS](https://img.shields.io/badge/%20%20C%23-%20%20%20%2016,960-821400.svg)
+![CLS](https://img.shields.io/badge/%20%20C-%20%20%20%2011,065-821400.svg)
+![CLS](https://img.shields.io/badge/%20%20PostScript-%20%20%20%209,601-a5100d.svg)
+![CLS](https://img.shields.io/badge/%20%20Visual%20Basic-%20%20%20%207,361-a5100d.svg)
+![CLS](https://img.shields.io/badge/%20%20CSS-%20%20%20%204,136-a10000.svg)
+![CLS](https://img.shields.io/badge/%20%20PHP-%20%20%20%202,349-821400.svg)
+![CLS](https://img.shields.io/badge/%20%20C%2B%2B-%20%20%20%202,133-ba1c0b.svg)
+![CLS](https://img.shields.io/badge/%20%20Shell-%20%20%20%20222-a5240d.svg)
+![CLS](https://img.shields.io/badge/%20%20Makefile-%20%20%20%2015-ba1c0b.svg)
+![CLS](https://img.shields.io/badge/%20%20ApacheConf-%20%20%20%2013-a5100d.svg)
 
-![](./cls1.png)
+![CLS](./cls1.png)
 
-![](./cls2.png)
+![CLS](./cls2.png)
 
-![](./cls3.png)
+![CLS](./cls3.png)
 
 ### Installation
 
@@ -113,6 +113,7 @@ cls -h
 	* 2.1.7 update readme
 	* 2.1.8 update readme
 	* 2.1.9 update readme
+	* 2.2.0 update readme
 
 ### :fuelpump: How to contribute
 
