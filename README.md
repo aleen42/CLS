@@ -6,7 +6,7 @@
 
 A command tool for Code Statistic of GitHub repositories in **Linux** and **Mac OS**. The main advantage of this tool is that it can access remote repositories without fetching them to local space.
 
-#### Code Statistic from GitHub projects (bytes)
+### Code Statistic from GitHub projects (bytes)
 
 ![](https://img.shields.io/badge/%20%20Code-%20%20%20%204,567,447-00666b.svg)
 
@@ -24,7 +24,7 @@ A command tool for Code Statistic of GitHub repositories in **Linux** and **Mac 
 ![](https://img.shields.io/badge/%20%20ApacheConf-%20%20%20%20412-00666b.svg)
 ![](https://img.shields.io/badge/%20%20Makefile-%20%20%20%20234-076c70.svg)
 
-#### Code Statistic from GitHub projects (lines)
+### Code Statistic from GitHub projects (lines)
 
 ![](https://img.shields.io/badge/%20%20Code-%20%20%20%20136,068-a5240d.svg)
 
@@ -114,7 +114,7 @@ cls -h
 	* 2.1.8 update readme
 	* 2.1.9 update readme
 
-### :yum: How to contribute
+### :fuelpump: How to contribute
 
 Have an idea? Found a bug? See [how to contribute](https://aleen42.gitbooks.io/personalwiki/content/contribution.html).
 
