@@ -1,14 +1,8 @@
 language: node_js
 node_js:
-  - "5"
-  - "5.1"
-  - "4"
-  - "4.2"
-  - "4.1"
-  - "4.0"
-  - "0.12"
-  - "0.11"
-  - "iojs"
-script: npm link && make test
-os: 
+  - "12"
+  - "11"
+  - "10"
+script: npm run debug && npm run test
+os:
   - linux
