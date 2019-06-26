@@ -1,6 +1,6 @@
 ## CLS - Code Lines Statistic within GitHub
 
-![npm](https://aleen42.github.io/badges/src/npm.svg) ![javascript](https://aleen42.github.io/badges/src/javascript.svg) ![](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20458L-f1e05a.svg) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/CLS/master/LICENSE) [![npm](https://img.shields.io/npm/v/cls-cli.svg)](https://www.npmjs.com/package/cls-cli) [![npm](https://img.shields.io/npm/dt/cls-cli.svg)](https://www.npmjs.com/package/cls-cli)
+![npm](https://aleen42.github.io/badges/src/npm.svg) ![javascript](https://aleen42.github.io/badges/src/javascript.svg) ![](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20463L-f1e05a.svg) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/CLS/master/LICENSE) [![npm](https://img.shields.io/npm/v/cls-cli.svg)](https://www.npmjs.com/package/cls-cli) [![npm](https://img.shields.io/npm/dt/cls-cli.svg)](https://www.npmjs.com/package/cls-cli)
 
 **CLS**, a.k.a remote [**sloc**](https://en.wikipedia.org/wiki/Source_lines_of_code), is a command line tool for Code Statistic of GitHub repositories through different OS platforms. The main advantage of such a tool is that it calculates by only accessing remote repositories without fetching them locally. However, to enhance accessing rate limitation as mentioned on [the official site](https://developer.github.com/v3/auth/#basic-authentication), the tool can only be used with a generated GitHub access token.
 
@@ -87,7 +87,7 @@ npm run debug
 	* 2.1.8 update readme
 	* 2.1.9 update readme
 	* 2.2.0 update readme
-	* 2.2.1 refactor
+	* 2.2.1 refactor and improve performances when calculating lines
 
 ### :fuelpump: How to contribute
 
