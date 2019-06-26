@@ -20,7 +20,7 @@
  *
  **********************************************************************/
 
-const cls = require('../lib/index');
+const {test} = require('../lib/index');
 
 /**
  * [should: test framework module]
@@ -30,6 +30,6 @@ require('chai').should();
 
 describe('tests', () => {
 	it('test case', () => {
-        // todo
+        test().should.contain('Usage: cls -u');
     });
 });

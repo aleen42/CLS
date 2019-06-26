@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "debug": "npm rm -g cls-cli && npm link",
-    "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "./node_modules/.bin/mocha ./test/ --reporter spec"
   },
   "bin": {
     "cls": "lib/start.js"
@@ -29,13 +29,13 @@
   },
   "homepage": "https://github.com/aleen42/CLS#readme",
   "dependencies": {
-    "request": "^2.72.0",
-    "cli-table": "^0.3.1",
-    "node-getopt": "^0.2.3",
-    "language-map": "^1.4.0"
+    "request": "2.72.0",
+    "cli-table": "0.3.1",
+    "node-getopt": "0.2.3",
+    "language-map": "1.4.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5"
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
   }
 }
