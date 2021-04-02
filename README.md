@@ -40,6 +40,12 @@ cls -v
 
 *Note: if you want to have a statistic for code lines, the process will take a long time, because it should connect to remote directory and the speed should depend on your network status and the size of the repository. By the way, there is a bug when your try to have a statistic for a huge repository, which will cause 504 Gate Way timeout error of svn.*
 
+If you are stuck in calculating lines, it may be a network problem for subversion to check remote trunks, try to use proxy:
+
+```bash
+cls -u aleen42 -t xxx --proxy=http://127.0.0.1:1080 -l
+```
+
 ### Debug
 
 The command below will remove global installation and link the command within a local cloned repository. It is helpful for debugging this tool.
@@ -88,6 +94,7 @@ npm run debug
 	* 2.1.9 update readme
 	* 2.2.0 update readme
 	* 2.2.1 refactor and improve performances when calculating lines
+	* 2.2.2 replace deprecated GitHub token query and support http proxy for Subversion
 
 ### :fuelpump: How to contribute
 
