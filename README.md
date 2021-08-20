@@ -96,6 +96,7 @@ npm run debug
 	* 2.2.1 refactor and improve performances when calculating lines
 	* 2.2.2 replace deprecated GitHub token query and support http proxy for Subversion
 	* 2.2.3 update languages map
+	* 2.2.4 fix typo
 
 ### :fuelpump: How to contribute
 
